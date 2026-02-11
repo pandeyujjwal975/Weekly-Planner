@@ -6,6 +6,7 @@ It helps users plan and manage tasks for each day of the week in an organized wa
 The app stores tasks using browser localStorage, so data remains saved even after refreshing the page.
 
 ---
+Live at : https://pandeyujjwal975.github.io/Weekly-Planner/
 
 ## Features
 
@@ -42,7 +43,7 @@ All code is written in a single HTML file.
 
 ## Live Demo
 
-https://pandeyujjwal975.github.io/GPA-Calculator/
+https://pandeyujjwal975.github.io/Weekly-Planner/
 
 ---
 
